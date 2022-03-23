@@ -6,6 +6,7 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "TDCrash"
+rootProject.name = "TACrash"
 include ':demo'
-include ':tdcrashLib'
+include ':taCrashLib'
+include ':bridgeLib'

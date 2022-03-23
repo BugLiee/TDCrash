@@ -1,0 +1,12 @@
+{
+    global:
+        JNI_OnLoad;
+        tac_test_crash;
+        tac_test_call_1;
+        tac_test_call_2;
+        tac_test_call_3;
+        tac_test_call_4;
+
+    local:
+        *;
+};
